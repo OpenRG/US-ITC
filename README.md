@@ -9,6 +9,9 @@
 
 This training is intended to provide Economists at the USITC with instructions on advanced modeling and data management techniques in Python. Participants will learn skills and to use tools that will make their code more efficient and better able to leverage the USITC’s high speed computational environment. A portion of the training will include a code review (see module 1e), where Commission staff will provide a dataset and code for a sample model and the class will work through revising the code to make it more efficient.
 
+## Daily Schedule ##
+
+The training will be held from 9:00am to 5:30pm each day.  The schedule will include a lunch break from 12:00pm to 1:30pm.  We'll take a 15 minute break in the morning and afternoon.  Jason will hold "office hours" from 4:30pm to 5:30pm each day for participants to ask questions or get help with their code.
 
 ## Course Schedule and Topics ##
 
@@ -17,15 +20,18 @@ This training is intended to provide Economists at the USITC with instructions o
 |----------|----------------------------------------|--------|
 | Oct. 16  | W  | Numerical Optimization Methods          |
 |   |   | SciPy: Optimizers and Rootfinders          |
-|   |   | Parameter Validation with ParamTools          |
-| Oct. 17  | Th  | Dynamic Programming in Python          |
-|   |   | Job Search Model: Brute Force          |
-|   |   | Interpolation          |
-|   | |  Parallel Computing with Dask          |
+|   |   | Applying optimization methods: GMM and MLE          |
+|   |   |  Job Search Model: Theory          |
+| Oct. 17  | Th  | Dynamic Programming in Python: Job Search Model         |
+|   | | Brute Force: VFI and PFI |
+|   | | Using Just in Time Compilation with Numba |
    |   | | Using the GPU with Jax           |
+|   | |  Parallel Computing with Dask          |
+|   |   |  Application: Estimating a job search model with SMM          |
 | Oct. 18  | F  |  Efficient Methods with Big Data: Dask DataFrames          |
-|   |  |  Applying new techniques to a real codebase       |
-|  |   |  Best practices with Sparse Matrices          |
+|   |   | Parameter Validation with ParamTools          |
+|   |  |  Applying new techniques to existing code       |
+| Future |   |  Best practices with Sparse Matrices          |
 |   |   | Optimizing Development Workflow  |
 |  |   |  Unit Tests and Continuous Integration Testing          |
 |   |   |  Documentation Tools         |
