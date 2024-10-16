@@ -34,3 +34,5 @@ dependencies:
 - pip:
   - pygam
   - linecheck
+  - memory-profiler
+  - plotly-express
