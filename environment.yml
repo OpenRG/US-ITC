@@ -36,3 +36,5 @@ dependencies:
   - linecheck
   - memory-profiler
   - plotly-express
+  - pyreadstat
+  - tables
