@@ -31,8 +31,9 @@ The training will be held from 9:00am to 5:30pm each day.  The schedule will inc
 | Oct. 18  | F  |  Efficient Methods with Big Data: Dask DataFrames          |
 |   |   | Parameter Validation with ParamTools          |
 |   |  |  Applying new techniques to existing code       |
-| Future |   |  Best practices with Sparse Matrices          |
-|   |   | Optimizing Development Workflow  |
+| Jan. 16 |   |  Best practices with Sparse Matrices          |
+|   |   | Version Control with GitHub/GitLab  |
+|  Jan. 17 |   | Optimizing Development Workflow  |
 |  |   |  Unit Tests and Continuous Integration Testing          |
 |   |   |  Documentation Tools         |
 
