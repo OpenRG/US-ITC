@@ -3,7 +3,7 @@ root: index
 parts:
 - caption: Workflow
   chapters:
-  - file: content/README
+  - file: content/Workflow/README
 - caption: SMM with a Nested Fixed Point Algorithm
   chapters:
   - file: content/JobSearchSMM.ipynb
