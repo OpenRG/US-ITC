@@ -1,0 +1,12 @@
+format: jb-book
+root: index
+parts:
+- caption: Workflow
+  chapters:
+  - file: content/Workflow/README
+- caption: SMM with a Nested Fixed Point Algorithm
+  chapters:
+  - file: content/JobSearchSMM.ipynb
+- caption: Sparse matrices
+  chapters:
+  - file: content/sparse_matrices.md
