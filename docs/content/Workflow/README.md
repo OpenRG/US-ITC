@@ -1,3 +1,5 @@
+# Workflow tips
+
 ## Text editor suggestions
 
 In our recommended Python development workflow, you will write Python scripts and modules (`*.py` files) in a text editor. Then you will run those scripts from your terminal. You will want a capable text editor for developing your code. Many capable text editors exist, but I recommend [Visual Studio Code](https://code.visualstudio.com).
